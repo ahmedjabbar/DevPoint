@@ -1,5 +1,5 @@
 do local _ = {
-  about_text = "Welcome to DevPoint For more information Subscribe to the channel @DevPointTeam",
+  about_text = "Welcome to uor For more information Subscribe to the channel @p444p",
   enabled_plugins = {
     "admin",
     "onservice",
@@ -75,9 +75,8 @@ do local _ = {
     data = "data/moderation.json"
   },
   sudo_users = {
-    124406196,
-    197920376,
-    224372882
+    231543308,
+   
   }
 }
 return _
