@@ -3,8 +3,8 @@
 #ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 #:((
 # For More Information ....! 
-# Developer : Aziz < @TH3_GHOST > 
-# our channel: @DevPointTeam
+# Developer : Aziz < @ahmedjabbar1 > 
+# our channel: @p444p
 # Version: 1.1
 #:))
 #ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
@@ -41,7 +41,7 @@ data[tostring(msg.to.id)]['group_welcome'] = matches[2]..'\n\nGroup Rules :\n'..
 end
 if not is_owner(msg) then 
     return 'For Owners Only!'
-end--DevPointCH
+end--p444p
 
 if matches[1] and is_owner(msg) then
     
@@ -52,7 +52,7 @@ data[tostring(msg.to.id)]['group_welcome'] = matches[1]
 end
 if not is_owner(msg) then 
     return 'For Owners Only!'
-end--@DevPointCH
+end--@p444p
 
 
     
@@ -63,6 +63,6 @@ return {
   "^[!#/]setwlc +(.*)$",
   "^[!#/](delwlc)$"
   },
-  run = DevPoint
+  run = uor
 }
---post by channel @DevPointCH
+--post by channel @p444p
