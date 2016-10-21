@@ -3,8 +3,8 @@
 #ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 #:((
 # For More Information ....! 
-# Developer : Aziz < @TH3_GHOST > 
-# our channel: @DevPointTeam
+# Developer : ahmed < @ahmedjabbar1 > 
+# our channel: @p444p
 # Version: 1.1
 #:))
 #ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
@@ -56,7 +56,7 @@ wlc : رسالة الترحيب | 📝
 bye : رسالة الخروج | 🖐
 username : المعرف | @
 ____________________
-Channel : @DevPointCH 🎗
+Channel : @p444p 🎗
 
 ]]
 end
